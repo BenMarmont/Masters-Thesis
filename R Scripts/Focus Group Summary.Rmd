@@ -1,0 +1,52 @@
+---
+title: "Focus Group Summary"
+author: "BM"
+date: "18/03/2022"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](C:/Users/marmontb/Documents/R/Adoption/UoW.jpg) ![](C:/Users/marmontb/Documents/R/Adoption/DNZ_logo.png)
+
+Thank you for sharing your thoughts with us around adapting an existing technology (in-paddock smart-feeders) to be a delivery mechanism of methane inhibiting compounds via supplementary feed.
+
+We know that it wasn't always an easy discussion, but we heard what you have to say.
+
+This can be distilled down into the following key themes:
+
+# Themes
+
+-   Farm System Change
+-   Utilisation of existing infrastructure
+-   Cost minimisation (labour and number of machines necessary)
+-   Economic viability
+-   Adaption of the delivery approach
+
+These ideas are expanding upon below.
+
+# Farm System Change
+
+We noticed that many of you were saying that if you bought in-paddock smart-feeders into your systems it would fundamentally your system, none more so than lower-input farmers such as system 1 farmers. This change would unilaterally change how we conceive farm systems in New Zealand, and could come at the cost of pasture which is our home-grown advantage on the world stage.
+
+# Utilisation of existing infrastructure
+
+We also noticed many participants showing a strong preference to use existing machinery to deliver methane inhibitors, which would greatly reduce the overall cost of the endeavour. Infrastructure such as feed-pads, in-shed feeding and water delivery systems.
+
+# Cost Minisation
+
+Mitigating methane in this way does have a range of costs which are not easy to quantify, that said it was clear that the costs of owning/renting the machines and the time costs of moving and refilling them seem prohibitive.
+
+# Economic viability
+
+While we were unable to provide accurate financial information about the technology we were reluctant to give you arbitrary figures least it be wrong. We know that being at best having a net zero impact of profit would be the benchmark but ultimately being profitable would be a key characteristic of the prospective technology. This is an area where further work will be done to explore various scenarios where the technology may be viable.
+
+# Adaption of the delivery approach
+
+This is the area that surprised us the most and has given us the most food for thought. We had been thinking of in-paddock smart-feeders as an individual approach to methane mitigation, you told us that we should consider the approach in the more holistic farm-system sense. By this we mean your comments about utilising the smart-feeders in winter grazing to offset emissions with less labour of moving the machines combined with less paddock-damage concerns. Targeting specific stock classes or times of the year opposed to a blanket approach which may or may not be way to meet our initial emissions target while minimising costs. Using the supplement as not only a methane inhibitor delivery mechanism but also for other key additives such as zinc and magnesium. Finally, potential interactions with other emergent technologies such as wearables to direct cows to machines outside of paddock to make your dollars go further.
+
+All-in-all, you have given us a tremendous amount to think about and we thank you for your input.
