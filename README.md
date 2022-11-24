@@ -1,2 +1,7 @@
 # Masters-Thesis
+
 Adoption of In-Paddock Feeding of Methane Inhibitors in Pasture-Based Dairy: An Application of the ADOPT model and a Farm-Level Cost-Benefit Analysis
+
+This repository is a way to house the economic modelling of my masters thesis undertaken at the University of Waikato 2021-2022. This modelling is undertaken in an excel workbook, and the intention was to eventually shift the model into R. Unfortunately due to time constraints this did not occur, but GitHub is still a good way to make the modelling available to any readers of my thesis.
+
+If you find yourself here and have any questions please do reach out to me at ben.marmont@dairynz.co.nz
