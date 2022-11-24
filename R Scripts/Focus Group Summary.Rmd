@@ -3,7 +3,7 @@ title: "Focus Group Summary"
 author: "BM"
 date: "18/03/2022"
 output:
-  word_document: default
+  pdf_document: default
   html_document: default
 ---
 
@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](C:/Users/marmontb/Documents/R/Adoption/UoW.jpg) ![](C:/Users/marmontb/Documents/R/Adoption/DNZ_logo.png)
+<!-- ![](C:/Users/marmontb/Documents/R/Adoption/UoW.jpg) ![](C:/Users/marmontb/Documents/R/Adoption/DNZ_logo.png) -->
 
 Thank you for sharing your thoughts with us around adapting an existing technology (in-paddock smart-feeders) to be a delivery mechanism of methane inhibiting compounds via supplementary feed.
 
